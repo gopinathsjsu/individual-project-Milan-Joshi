@@ -1,0 +1,2 @@
+Cannot proceed to payment because Wallet has exceeded the category(Luxury) limit. Please resubmit the order with quantity no greater than 1
+Cannot proceed to payment because Milk has exceeded the category(Essentials) limit. Please resubmit the order with quantity no greater than 1
